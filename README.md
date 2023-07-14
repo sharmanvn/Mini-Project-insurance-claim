@@ -5,7 +5,7 @@ body mass index, providing an understanding of the body, number of children of t
 policyholder, smoking state of the policyholder and individual medical costs billed by health 
 insurance.
 
-Feature Description
+Feature Description:
 age age of policyholder
 sex male(1)/female(0)
 bmi body mass index(kg / m2)
