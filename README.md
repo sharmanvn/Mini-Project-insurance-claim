@@ -4,6 +4,7 @@ policyholder with various features like the age of the person, the gender of the
 body mass index, providing an understanding of the body, number of children of the 
 policyholder, smoking state of the policyholder and individual medical costs billed by health 
 insurance.
+
 Feature Description
 age age of policyholder
 sex male(1)/female(0)
